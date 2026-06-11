@@ -1,0 +1,201 @@
+Employee_ID,Year,Department,Job_Role,Gender,Age,Marital_Status,Attrition,Monthly_Income,Percent_Salary_Hike,Years_At_Company,Performance_Rating,Training_Hours,Years_In_Current_Role,Business_Travel,OverTime,Work_Life_Balance,Education_Field,Distance_From_Home
+1001,2021,Engineering,Software Engineer,Male,25,Single,No,8734,14,2.8,2,11,1.9,Rarely,No,4,Life Sciences,12_km
+1002,2021,Engineering,Data Scientist,Male,26,Married,No,9396,23,2.8,3,56,2.1,Rarely,Yes,2,Technical,19_km
+1003,2021,Marketing,Marketing Manager,Male,41,Divorced,No,12388,13,5.8,4,37,5.1,Rarely,No,3,Marketing,28_km
+1004,2021,Engineering,Software Engineer,Female,34,Divorced,No,6152,24,1.8,3,27,1.1,Rarely,No,2,Life Sciences,12_km
+1005,2021,Marketing,Social Media Specialist,Female,28,Divorced,No,6798,18,3.3,4,54,2.8,Rarely,No,1,Marketing,29_km
+1006,2021,HR,HR Specialist,Male,28,Single,No,8248,14,1.4,1,51,1.2,Frequently,No,3,Human Resources,26_km
+1007,2021,Engineering,QA Engineer,Female,21,Married,No,7598,14,2.1,3,56,1.7,Non-Travel,No,2,Technical,3_km
+1008,2021,Sales,Sales Representative,Male,29,Divorced,Yes,3206,25,2.7,1,13,1.5,Frequently,Yes,2,Marketing,5_km
+1009,2021,Sales,Sales Representative,Male,27,Single,No,4722,21,4.3,4,53,3.2,Rarely,Yes,4,Life Sciences,30_km
+1010,2021,Engineering,QA Engineer,Female,34,Divorced,No,8504,18,1.6,3,46,1.3,Rarely,No,1,Technical,19_km
+1011,2021,Engineering,QA Engineer,Male,24,Single,No,8232,17,0.7,3,26,0.4,Frequently,No,3,Life Sciences,17_km
+1012,2021,Sales,Sales Representative,Male,21,Single,No,6474,17,4.2,3,26,2.9,Rarely,No,3,Marketing,6_km
+1013,2021,Sales,Regional Manager,Male,50,Divorced,No,10108,19,7,3,12,5.4,Rarely,No,3,Marketing,19_km
+1014,2021,Engineering,Software Engineer,Female,22,Divorced,No,5919,21,1.1,3,25,0.6,Non-Travel,No,2,Technical,16_km
+1015,2021,Sales,Regional Manager,Non-binary,46,Married,No,14048,17,16.7,4,42,10.6,Frequently,No,4,Marketing,20_km
+1016,2021,Engineering,Tech Lead,Female,37,Married,No,12683,25,6.3,4,50,3.2,Rarely,Yes,4,Technical,1_km
+1017,2021,Sales,Sales Representative,Female,32,Single,No,3954,20,2.4,3,36,1.4,Rarely,No,2,Medical,21_km
+1018,2021,Sales,Sales Executive,Male,23,Single,No,7642,21,4.7,1,50,4.2,Rarely,No,1,Marketing,24_km
+1019,2021,Sales,Sales Representative,Non-binary,24,Single,Yes,3190,15,2,2,12,1.2,Rarely,No,4,Marketing,14_km
+1020,2021,Sales,Regional Manager,Male,44,Divorced,No,10909,19,9.2,4,44,5.1,Rarely,No,2,Medical,25_km
+1021,2021,Engineering,QA Engineer,Female,24,Single,No,5368,25,0.7,3,32,0.4,Rarely,No,3,Technical,22_km
+1022,2021,Engineering,Tech Lead,Male,51,Married,No,11215,21,5.5,3,14,3.9,Frequently,No,3,Life Sciences,4_km
+1023,2021,Engineering,Tech Lead,Female,42,Divorced,No,13864,19,17.6,4,46,9.1,Rarely,No,2,Technical,21_km
+1024,2021,Sales,Sales Executive,Male,21,Married,No,5849,25,1.7,2,14,1,Frequently,No,2,Marketing,29_km
+1025,2021,Engineering,Data Scientist,Male,29,Married,No,6356,19,1,1,35,0.5,Frequently,No,4,Technical,21_km
+1026,2021,Engineering,Tech Lead,Female,44,Married,No,15377,14,13.3,3,54,8.6,Rarely,No,4,Technical,16_km
+1027,2021,Sales,Sales Executive,Female,24,Divorced,No,4687,10,4.2,3,42,2.3,Frequently,No,4,Marketing,10_km
+1028,2021,Engineering,Data Scientist,Male,33,Married,No,5546,12,3.8,3,50,2.9,Frequently,No,3,Technical,4_km
+1029,2021,Engineering,QA Engineer,Female,25,Single,No,5808,10,3.4,3,48,2.5,Frequently,No,4,Life Sciences,24_km
+1030,2021,Sales,Sales Executive,Female,29,Divorced,No,5914,10,0.9,4,45,0.6,Rarely,No,4,Life Sciences,29_km
+1031,2021,Engineering,QA Engineer,Female,24,Divorced,No,7946,14,3.1,2,32,1.7,Rarely,No,4,Technical,25_km
+1032,2021,Marketing,Social Media Specialist,Male,30,Divorced,No,4156,10,4.5,3,47,3.5,Frequently,No,3,Marketing,14_km
+1033,2021,HR,HR Director,Male,36,Divorced,No,11040,16,11.7,3,34,8.6,Non-Travel,No,1,Human Resources,4_km
+1034,2021,Engineering,Data Scientist,Male,32,Single,No,8301,23,4.3,2,29,2.7,Rarely,No,4,Technical,8_km
+1035,2021,Sales,Sales Executive,Female,29,Married,No,4214,22,3,2,56,2.1,Frequently,No,1,Medical,16_km
+1036,2021,Marketing,Marketing Manager,Male,54,Divorced,No,13012,25,11.8,4,32,9.2,Frequently,No,1,Marketing,11_km
+1037,2021,Engineering,Data Scientist,Male,32,Married,Yes,3667,14,2.2,2,50,1.7,Rarely,No,4,Technical,27_km
+1038,2021,Sales,Sales Executive,Male,32,Single,No,3924,19,1.1,2,39,1,Rarely,No,2,Marketing,27_km
+1039,2021,Engineering,Software Engineer,Female,21,Married,No,8898,12,3.7,3,10,3.3,Frequently,No,1,Technical,16_km
+1040,2021,Sales,Sales Executive,Non-binary,23,Married,Yes,4460,10,3.6,3,60,2.9,Rarely,No,1,Marketing,13_km
+1041,2022,Marketing,Social Media Specialist,Male,30,Divorced,No,3249,23,3.3,3,26,2.3,Rarely,No,4,Marketing,15_km
+1042,2022,Sales,Sales Executive,Female,31,Married,No,7530,12,5.4,3,43,4.8,Frequently,No,4,Medical,25_km
+1043,2022,HR,HR Director,Female,51,Divorced,Yes,11680,15,15.4,3,11,12.9,Rarely,No,1,Human Resources,30_km
+1044,2022,Sales,Sales Representative,Male,27,Single,No,9238,20,2.6,3,38,1.5,Rarely,No,4,Medical,18_km
+1045,2022,Engineering,Software Engineer,Male,33,Married,No,8524,20,3.4,3,18,2.2,Rarely,No,2,Technical,25_km
+1046,2022,Sales,Regional Manager,Male,51,Single,No,14645,23,16.3,3,35,12,Rarely,No,4,Medical,23_km
+1047,2022,HR,HR Director,Male,41,Divorced,No,14622,24,16.6,3,34,11.8,Rarely,Yes,3,Human Resources,5_km
+1048,2022,Engineering,QA Engineer,Male,26,Divorced,No,3125,24,1,4,45,0.7,Frequently,No,3,Technical,22_km
+1049,2022,HR,HR Specialist,Female,29,Married,No,5660,10,2.4,3,31,1.7,Non-Travel,No,1,Human Resources,6_km
+1050,2022,Engineering,Data Scientist,Male,34,Divorced,No,5397,24,1.3,4,15,0.7,Rarely,No,2,Life Sciences,20_km
+1051,2022,Marketing,Social Media Specialist,Non-binary,28,Married,No,9117,15,4.1,4,35,3,Rarely,No,2,Marketing,4_km
+1052,2022,Sales,Sales Executive,Female,21,Divorced,No,9233,15,4.7,2,59,3.3,Rarely,No,4,Medical,10_km
+1053,2022,Sales,Regional Manager,Male,54,Married,No,9820,24,6.8,3,58,3.7,Frequently,No,1,Medical,30_km
+1054,2022,Sales,Sales Executive,Female,22,Single,No,5635,14,2.5,4,23,2,Frequently,Yes,4,Life Sciences,30_km
+1055,2022,Engineering,QA Engineer,Female,34,Married,No,7227,22,2.1,3,47,1.6,Frequently,No,1,Technical,23_km
+1056,2022,Sales,Sales Executive,Female,22,Divorced,No,4997,19,0.7,2,24,0.5,Rarely,No,3,Marketing,29_km
+1057,2022,HR,Recruiter,Female,29,Married,Yes,4120,19,4.3,3,42,2.4,Frequently,Yes,2,Human Resources,6_km
+1058,2022,Sales,Sales Representative,Female,33,Divorced,No,6719,13,1.2,2,35,0.9,Frequently,No,3,Marketing,27_km
+1059,2022,Engineering,Tech Lead,Male,42,Married,No,10314,17,8.7,4,52,7.5,Rarely,Yes,4,Technical,12_km
+1060,2022,Sales,Sales Executive,Female,21,Married,No,3603,10,2.4,2,55,1.3,Frequently,Yes,1,Marketing,21_km
+1061,2022,Engineering,QA Engineer,Female,26,Divorced,No,7662,19,1.6,3,50,1,Rarely,No,3,Technical,20_km
+1062,2022,Marketing,Social Media Specialist,Male,22,Divorced,No,9490,15,2.9,2,33,2,Rarely,Yes,1,Marketing,17_km
+1063,2022,HR,Recruiter,Female,25,Married,No,6120,10,1.3,4,16,0.7,Rarely,No,1,Human Resources,13_km
+1064,2022,Engineering,QA Engineer,Male,34,Divorced,No,5079,12,3,3,56,2,Rarely,No,2,Technical,2_km
+1065,2022,Sales,Regional Manager,Female,38,Divorced,No,12835,16,16.2,4,37,10.5,Frequently,Yes,4,Life Sciences,18_km
+1066,2022,Sales,Sales Executive,Male,31,Divorced,No,8886,11,0.4,2,44,0.3,Frequently,Yes,4,Medical,24_km
+1067,2022,Marketing,Marketing Specialist,Non-binary,26,Single,Yes,8005,22,2,4,28,1,Rarely,Yes,4,Marketing,29_km
+1068,2022,Sales,Regional Manager,Female,54,Single,No,13094,23,8.4,3,18,6.2,Frequently,Yes,2,Marketing,21_km
+1069,2022,Marketing,Social Media Specialist,Female,30,Single,No,5679,11,5.9,3,54,3.4,Rarely,No,1,Marketing,7_km
+1070,2022,Engineering,Tech Lead,Female,47,Married,No,12157,10,8.5,3,46,7.4,Rarely,Yes,1,Life Sciences,6_km
+1071,2022,Engineering,Tech Lead,Male,40,Divorced,No,14326,21,12.8,4,55,9.8,Non-Travel,Yes,4,Technical,2_km
+1072,2022,HR,Recruiter,Male,30,Divorced,No,7124,11,2.5,3,56,1.6,Rarely,No,4,Human Resources,22_km
+1073,2022,Engineering,Data Scientist,Male,24,Divorced,Yes,4762,18,5.1,3,18,4.5,Frequently,Yes,4,Technical,17_km
+1074,2022,HR,HR Director,Male,37,Divorced,No,13069,20,15.4,4,58,9.4,Rarely,No,1,Human Resources,17_km
+1075,2022,Marketing,Marketing Specialist,Female,28,Married,Yes,3338,18,4.5,3,21,3.4,Frequently,No,3,Marketing,27_km
+1076,2022,Marketing,Marketing Manager,Female,50,Married,No,14306,12,18,3,57,12.4,Rarely,No,4,Marketing,18_km
+1077,2022,Sales,Sales Executive,Male,24,Married,No,3934,22,2.9,3,43,2.2,Rarely,No,3,Medical,5_km
+1078,2022,Sales,Sales Representative,Male,28,Divorced,No,6587,16,4.8,3,44,3.6,Frequently,No,2,Marketing,2_km
+1079,2022,Marketing,Marketing Manager,Male,41,Divorced,No,10313,24,9.6,4,19,6.3,Frequently,No,2,Marketing,25_km
+1080,2022,Engineering,Data Scientist,Female,21,Married,No,5050,14,3,3,55,2.5,Rarely,No,3,Technical,9_km
+1081,2023,Engineering,Data Scientist,Male,25,Married,No,5108,11,1.8,3,34,1.6,Frequently,No,3,Technical,20_km
+1082,2023,Sales,Sales Executive,Female,23,Single,No,6564,14,1,1,14,0.7,Non-Travel,Yes,2,Marketing,15_km
+1083,2023,Sales,Regional Manager,Female,44,Divorced,No,11966,24,14.9,4,34,8.4,Rarely,No,1,Medical,4_km
+1084,2023,Engineering,Software Engineer,Male,32,Divorced,Yes,4218,17,5.7,4,24,4.7,Rarely,No,2,Technical,8_km
+1085,2023,Engineering,Tech Lead,Male,39,Single,No,14568,11,16.1,3,49,11.1,Frequently,No,3,Technical,13_km
+1086,2023,Marketing,Marketing Specialist,Female,31,Single,Yes,4704,14,2.2,2,52,1.9,Frequently,Yes,1,Marketing,26_km
+1087,2023,Sales,Sales Representative,Female,31,Married,Yes,6508,25,4.5,2,22,3.7,Rarely,No,2,Life Sciences,27_km
+1088,2023,Sales,Sales Representative,Male,23,Single,No,4007,23,0.9,3,46,0.6,Rarely,No,1,Life Sciences,22_km
+1089,2023,Sales,Regional Manager,Female,46,Single,No,10417,24,14.2,3,38,7.4,Non-Travel,Yes,4,Medical,4_km
+1090,2023,Sales,Sales Representative,Male,26,Single,No,9222,12,5,3,22,2.5,Rarely,Yes,1,Medical,7_km
+1091,2023,HR,Recruiter,Male,34,Married,No,6155,25,4,3,46,3.5,Rarely,Yes,3,Human Resources,20_km
+1092,2023,Engineering,Software Engineer,Male,21,Divorced,No,7665,24,5.4,2,53,3.2,Frequently,Yes,4,Life Sciences,27_km
+1093,2023,Engineering,Software Engineer,Male,31,Divorced,No,8805,13,3.3,1,55,2.7,Non-Travel,Yes,3,Technical,25_km
+1094,2023,Sales,Regional Manager,Female,40,Single,No,10516,10,7.1,4,17,4.5,Rarely,No,1,Medical,18_km
+1095,2023,Engineering,QA Engineer,Female,33,Divorced,Yes,3728,18,5.2,3,55,2.7,Rarely,No,4,Technical,15_km
+1096,2023,Sales,Sales Executive,Female,32,Married,Yes,3001,15,3.3,4,48,1.8,Rarely,No,2,Medical,14_km
+1097,2023,HR,HR Director,Male,42,Single,No,9816,17,14.2,3,17,12.4,Rarely,Yes,2,Human Resources,28_km
+1098,2023,HR,HR Director,Female,41,Divorced,No,9958,19,16.6,3,23,13.7,Frequently,No,3,Human Resources,18_km
+1099,2023,Engineering,QA Engineer,Female,33,Single,Yes,4266,12,1.5,4,53,1,Frequently,Yes,2,Technical,6_km
+1100,2023,Engineering,Data Scientist,Female,23,Divorced,No,5971,23,1.4,3,30,0.7,Rarely,Yes,3,Technical,26_km
+1101,2023,Sales,Regional Manager,Non-binary,51,Married,No,14203,16,12.6,3,51,8.3,Rarely,No,3,Marketing,19_km
+1102,2023,Engineering,QA Engineer,Female,21,Single,No,5914,14,4.7,3,14,3.5,Rarely,No,2,Technical,13_km
+1103,2023,Engineering,Software Engineer,Male,29,Divorced,No,6155,24,3.7,2,10,2.4,Rarely,No,4,Technical,12_km
+1104,2023,Marketing,Marketing Specialist,Male,23,Married,Yes,3629,20,1.3,3,21,0.8,Rarely,No,1,Marketing,25_km
+1105,2023,Engineering,Data Scientist,Male,25,Divorced,No,5734,21,4.1,3,29,3.4,Rarely,No,2,Technical,14_km
+1106,2023,Sales,Regional Manager,Male,37,Divorced,No,13793,11,7.3,3,33,4,Frequently,No,3,Marketing,11_km
+1107,2023,Engineering,Software Engineer,Female,28,Divorced,No,6249,21,2.3,3,17,1.3,Rarely,Yes,2,Technical,21_km
+1108,2023,Sales,Regional Manager,Female,49,Married,No,13373,24,13.6,4,49,8.8,Rarely,Yes,1,Marketing,12_km
+1109,2023,HR,HR Specialist,Female,34,Divorced,No,6124,10,4.1,3,50,2.6,Frequently,Yes,1,Human Resources,16_km
+1110,2023,HR,HR Specialist,Female,31,Single,No,4347,16,4,3,28,3.5,Non-Travel,No,1,Human Resources,11_km
+1111,2023,Engineering,Tech Lead,Female,55,Single,No,13226,25,13.2,4,58,9.6,Rarely,No,3,Technical,12_km
+1112,2023,Sales,Regional Manager,Female,48,Married,No,13348,21,9.9,4,14,7,Rarely,No,2,Medical,16_km
+1113,2023,Sales,Sales Representative,Male,26,Divorced,Yes,5545,24,4.4,3,34,3.6,Non-Travel,No,4,Marketing,11_km
+1114,2023,Engineering,Software Engineer,Male,34,Married,No,9012,19,3.8,3,45,2.9,Rarely,No,2,Technical,18_km
+1115,2023,Marketing,Social Media Specialist,Male,27,Divorced,No,6179,13,1.3,3,29,1,Rarely,Yes,4,Marketing,22_km
+1116,2023,HR,HR Specialist,Male,30,Single,No,5938,17,0.3,3,51,0.2,Frequently,No,4,Human Resources,24_km
+1117,2023,Engineering,Tech Lead,Male,53,Married,No,13183,24,10.5,4,58,5.7,Rarely,No,3,Life Sciences,12_km
+1118,2023,Engineering,Software Engineer,Male,23,Single,Yes,3987,25,1.5,3,44,0.9,Rarely,No,3,Technical,21_km
+1119,2023,Sales,Sales Executive,Female,31,Single,No,8094,13,2.2,3,49,1.6,Non-Travel,No,1,Medical,1_km
+1120,2023,Sales,Sales Executive,Male,27,Single,Yes,3707,17,2.8,3,59,2.1,Frequently,Yes,3,Marketing,22_km
+1121,2024,Sales,Regional Manager,Female,46,Divorced,No,12317,14,9.7,4,22,6.6,Rarely,No,1,Marketing,15_km
+1122,2024,Sales,Regional Manager,Male,50,Divorced,No,12583,17,9.5,4,14,7.8,Rarely,No,4,Medical,8_km
+1123,2024,Engineering,Tech Lead,Female,52,Married,Yes,14051,10,14.8,3,32,12.3,Frequently,No,2,Technical,13_km
+1124,2024,Engineering,QA Engineer,Male,31,Single,No,7930,15,2.6,3,46,1.9,Non-Travel,No,4,Technical,10_km
+1125,2024,Engineering,Tech Lead,Female,44,Divorced,Yes,15289,20,14.4,3,11,8.4,Rarely,No,3,Life Sciences,18_km
+1126,2024,Sales,Regional Manager,Female,35,Single,No,13759,15,12.9,3,34,11.1,Rarely,No,1,Marketing,21_km
+1127,2024,Sales,Sales Executive,Male,32,Single,No,7223,22,2.8,3,52,2,Rarely,No,2,Medical,2_km
+1128,2024,Engineering,QA Engineer,Female,30,Married,No,9488,12,0.6,4,30,0.3,Non-Travel,No,1,Technical,28_km
+1129,2024,Engineering,Data Scientist,Female,24,Single,No,8891,16,6,3,59,4.5,Frequently,No,3,Life Sciences,5_km
+1130,2024,Sales,Sales Executive,Male,32,Divorced,No,6029,15,5,3,47,4,Rarely,Yes,3,Medical,21_km
+1131,2024,Engineering,QA Engineer,Female,25,Single,No,5009,21,1.7,4,20,1.4,Rarely,No,3,Life Sciences,21_km
+1132,2024,Engineering,Tech Lead,Male,54,Married,No,14219,22,14.6,3,58,9.5,Rarely,No,1,Technical,17_km
+1133,2024,Marketing,Social Media Specialist,Male,21,Single,No,3241,17,0.5,4,58,0.3,Frequently,No,3,Marketing,17_km
+1134,2024,Engineering,Data Scientist,Female,32,Single,Yes,9230,17,4.2,1,26,2.2,Rarely,No,1,Technical,20_km
+1135,2024,Engineering,Tech Lead,Non-binary,53,Divorced,Yes,15010,19,15.2,3,47,10.1,Frequently,No,3,Life Sciences,16_km
+1136,2024,Engineering,Data Scientist,Male,22,Single,No,5993,24,0.4,3,59,0.2,Non-Travel,Yes,2,Technical,21_km
+1137,2024,Sales,Regional Manager,Female,50,Single,No,10811,17,13,3,23,6.7,Rarely,Yes,4,Medical,26_km
+1138,2024,Marketing,Social Media Specialist,Female,34,Divorced,No,5160,11,4,3,30,3.3,Frequently,No,1,Marketing,30_km
+1139,2024,Sales,Regional Manager,Female,46,Divorced,No,11259,22,7.3,3,30,6.5,Rarely,No,3,Life Sciences,20_km
+1140,2024,Engineering,QA Engineer,Male,26,Single,No,6754,21,4.6,3,56,3.4,Rarely,Yes,1,Technical,5_km
+1141,2024,Sales,Sales Executive,Female,21,Divorced,No,9019,16,0.9,3,36,0.7,Rarely,Yes,3,Marketing,2_km
+1142,2024,HR,HR Director,Female,46,Married,No,11756,15,5.1,4,28,4.1,Frequently,No,1,Human Resources,26_km
+1143,2024,Engineering,Software Engineer,Female,28,Married,No,4013,13,3.7,3,54,2.5,Rarely,No,4,Technical,17_km
+1144,2024,Sales,Regional Manager,Female,50,Single,Yes,14674,12,14.1,3,58,9.8,Frequently,No,3,Marketing,14_km
+1145,2024,Sales,Regional Manager,Non-binary,38,Single,No,11566,20,10.7,3,37,6.8,Rarely,No,3,Life Sciences,15_km
+1146,2024,Marketing,Marketing Manager,Male,38,Married,No,10159,25,15.2,3,14,10.1,Rarely,No,1,Marketing,20_km
+1147,2024,Engineering,Tech Lead,Male,51,Divorced,No,11385,23,15.8,3,35,11.2,Non-Travel,Yes,3,Life Sciences,5_km
+1148,2024,Engineering,Software Engineer,Male,24,Single,No,4625,15,0.8,3,55,0.6,Frequently,No,4,Technical,12_km
+1149,2024,HR,HR Specialist,Female,28,Married,No,3875,25,0.6,1,40,0.4,Frequently,Yes,2,Human Resources,25_km
+1150,2024,HR,HR Specialist,Female,24,Divorced,No,5297,25,3.5,3,20,2.2,Rarely,No,4,Human Resources,24_km
+1151,2024,Sales,Sales Representative,Male,32,Married,No,6959,17,1.8,3,58,1.6,Frequently,Yes,3,Life Sciences,19_km
+1152,2024,Sales,Sales Executive,Male,22,Single,No,7724,11,1.6,3,37,1.3,Rarely,No,2,Marketing,11_km
+1153,2024,HR,HR Specialist,Female,26,Married,No,5657,25,3.1,2,60,2.7,Frequently,No,1,Human Resources,7_km
+1154,2024,Sales,Sales Representative,Female,30,Divorced,Yes,3610,23,0.6,3,31,0.3,Rarely,Yes,3,Marketing,24_km
+1155,2024,Sales,Regional Manager,Male,42,Single,No,11605,19,14.8,3,44,10.7,Rarely,Yes,2,Medical,7_km
+1156,2024,HR,HR Director,Male,53,Single,No,14374,16,7.6,3,18,4.7,Rarely,No,3,Human Resources,15_km
+1157,2024,Marketing,Social Media Specialist,Male,32,Married,No,5822,16,3.8,3,17,3.3,Rarely,Yes,1,Marketing,28_km
+1158,2024,HR,HR Specialist,Male,34,Married,No,4781,14,5.2,2,30,4.1,Non-Travel,No,2,Human Resources,13_km
+1159,2024,Engineering,Data Scientist,Female,31,Divorced,Yes,3246,23,1,3,14,0.5,Frequently,Yes,3,Technical,29_km
+1160,2024,Engineering,Tech Lead,Female,46,Divorced,No,15014,23,16.7,4,35,10.4,Frequently,Yes,4,Technical,21_km
+1161,2025,Engineering,Software Engineer,Male,29,Married,No,9450,20,2.9,3,39,2.2,Rarely,No,3,Technical,27_km
+1162,2025,Engineering,Data Scientist,Male,28,Divorced,Yes,5295,24,0.7,2,12,0.6,Frequently,Yes,4,Technical,26_km
+1163,2025,Engineering,QA Engineer,Male,25,Single,No,3948,11,4,4,60,3.4,Frequently,No,1,Technical,6_km
+1164,2025,Sales,Sales Representative,Male,26,Married,No,3141,18,5.2,3,49,3.4,Rarely,No,4,Life Sciences,14_km
+1165,2025,Engineering,Data Scientist,Female,23,Married,No,5946,16,4.6,3,28,2.3,Frequently,No,3,Technical,20_km
+1166,2025,HR,HR Specialist,Male,34,Single,Yes,3264,23,0.4,3,50,0.2,Rarely,No,4,Human Resources,27_km
+1167,2025,Marketing,Social Media Specialist,Female,26,Married,No,7008,20,5.9,3,55,4.2,Rarely,No,2,Marketing,21_km
+1168,2025,Sales,Sales Executive,Male,23,Single,Yes,5044,16,3.3,1,56,2.8,Non-Travel,Yes,4,Life Sciences,12_km
+1169,2025,Sales,Sales Representative,Female,24,Married,No,3405,21,3.8,3,13,2.8,Rarely,No,2,Marketing,12_km
+1170,2025,Sales,Regional Manager,Male,43,Divorced,No,11292,20,8.5,3,17,7.3,Rarely,Yes,3,Marketing,28_km
+1171,2025,Sales,Sales Executive,Female,23,Married,Yes,4455,20,1.9,2,29,1.3,Rarely,Yes,4,Marketing,1_km
+1172,2025,HR,HR Specialist,Male,31,Married,No,5429,16,1.9,3,50,1.2,Rarely,No,3,Human Resources,13_km
+1173,2025,Sales,Regional Manager,Non-binary,48,Single,No,13128,25,10.1,3,42,6.7,Frequently,No,1,Life Sciences,26_km
+1174,2025,HR,HR Specialist,Female,34,Divorced,No,6052,13,5,1,27,4.2,Frequently,Yes,1,Human Resources,19_km
+1175,2025,Sales,Sales Executive,Male,23,Married,No,5702,23,4.6,3,27,3.5,Non-Travel,No,3,Marketing,22_km
+1176,2025,Engineering,QA Engineer,Female,25,Divorced,No,6585,20,3.3,3,10,3,Frequently,No,3,Technical,13_km
+1177,2025,Marketing,Social Media Specialist,Female,29,Divorced,Yes,4431,14,4,3,47,3.1,Frequently,No,2,Marketing,30_km
+1178,2025,Sales,Regional Manager,Male,46,Divorced,No,14660,10,10.6,3,33,7.8,Frequently,No,3,Marketing,2_km
+1179,2025,Sales,Sales Executive,Female,24,Single,No,8906,10,0.4,3,58,0.3,Rarely,No,2,Medical,5_km
+1180,2025,HR,HR Director,Male,47,Single,Yes,10957,15,11.3,3,52,7.9,Rarely,No,4,Human Resources,27_km
+1181,2025,Engineering,Tech Lead,Male,49,Single,No,13840,13,8.8,4,27,4.8,Rarely,No,4,Life Sciences,9_km
+1182,2025,Engineering,QA Engineer,Male,33,Single,No,6807,20,2.2,3,32,1.2,Rarely,No,3,Technical,3_km
+1183,2025,Engineering,QA Engineer,Male,34,Single,Yes,3382,12,1.8,4,22,1.3,Rarely,No,3,Technical,2_km
+1184,2025,Sales,Sales Executive,Female,28,Married,No,4237,13,3.5,3,28,2,Rarely,No,3,Life Sciences,27_km
+1185,2025,HR,HR Specialist,Male,25,Married,No,6829,10,4.8,2,60,3.9,Non-Travel,Yes,3,Human Resources,26_km
+1186,2025,Marketing,Social Media Specialist,Female,24,Married,No,4610,12,1.5,3,23,1,Rarely,No,3,Marketing,18_km
+1187,2025,Sales,Sales Representative,Female,33,Divorced,No,7258,12,1.4,2,47,1.2,Frequently,No,3,Marketing,27_km
+1188,2025,Marketing,Marketing Manager,Female,45,Married,No,13406,17,14,3,39,8.7,Frequently,No,1,Marketing,30_km
+1189,2025,Engineering,QA Engineer,Male,21,Married,No,6559,17,2,1,17,1.6,Frequently,No,1,Technical,28_km
+1190,2025,HR,Recruiter,Female,29,Divorced,No,7897,21,0.7,3,22,0.5,Rarely,Yes,1,Human Resources,2_km
+1191,2025,Engineering,QA Engineer,Female,28,Married,No,8776,24,3.2,3,40,2.5,Rarely,Yes,4,Technical,2_km
+1192,2025,HR,HR Director,Male,41,Divorced,No,11088,18,15.9,3,31,9.3,Rarely,Yes,3,Human Resources,17_km
+1193,2025,HR,HR Director,Male,54,Married,No,10159,24,13.9,3,13,10.9,Frequently,No,1,Human Resources,27_km
+1194,2025,HR,HR Director,Male,48,Divorced,No,14445,22,15.7,4,35,9.6,Rarely,No,2,Human Resources,22_km
+1195,2025,HR,Recruiter,Female,26,Single,No,9468,11,5.7,2,53,5,Rarely,No,4,Human Resources,4_km
+1196,2025,Marketing,Marketing Specialist,Male,26,Single,No,5671,18,5.6,3,19,3.1,Rarely,Yes,3,Marketing,23_km
+1197,2025,Engineering,QA Engineer,Female,28,Single,Yes,3522,19,5.7,3,26,3.5,Frequently,Yes,1,Life Sciences,22_km
+1198,2025,Sales,Sales Executive,Male,34,Married,No,3226,25,2.4,2,18,1.9,Frequently,No,1,Marketing,6_km
+1199,2025,Marketing,Marketing Manager,Female,47,Divorced,No,11272,14,8.8,3,37,6.7,Rarely,No,4,Marketing,22_km
+1200,2025,Engineering,Data Scientist,Male,23,Divorced,Yes,4548,14,0.6,2,47,0.4,Frequently,Yes,4,Technical,2_km
