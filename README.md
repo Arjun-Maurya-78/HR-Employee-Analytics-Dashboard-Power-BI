@@ -127,27 +127,6 @@ This dashboard is designed to enable precise, targeted interventions — every v
 
 **File:** `HR_Employee_Data.csv` &nbsp;|&nbsp; **Rows:** 200 &nbsp;|&nbsp; **Columns:** 19 &nbsp;|&nbsp; **Period:** 2021–2025
 
-| Column | Data Type | Description |
-|---|---|---|
-| `Employee_ID` | Integer | Unique employee identifier |
-| `Year` | Integer | Record year (2021–2025) |
-| `Department` | Categorical | Engineering, Sales, HR, Marketing |
-| `Job_Role` | Categorical | 13 distinct roles (Tech Lead, QA Engineer, etc.) |
-| `Gender` | Categorical | Male, Female, Non-binary |
-| `Age` | Integer | Employee age in years |
-| `Marital_Status` | Categorical | Single, Married, Divorced |
-| `Attrition` | Binary | Yes / No |
-| `Monthly_Income` | Numeric | Gross monthly income (₹) |
-| `Percent_Salary_Hike` | Numeric | Year-on-year salary increase % |
-| `Years_At_Company` | Numeric | Total tenure in years |
-| `Performance_Rating` | Integer | 1–4 performance scale |
-| `Training_Hours` | Integer | Annual training hours completed |
-| `Years_In_Current_Role` | Numeric | Duration in present role |
-| `Business_Travel` | Categorical | Rarely, Frequently, No Travel |
-| `OverTime` | Binary | Yes / No |
-| `Work_Life_Balance` | Integer | 1–4 scale |
-| `Education_Field` | Categorical | Life Sciences, Technical, Marketing, etc. |
-| `Distance_From_Home` | Categorical | Distance category in km |
 > 📂 Full dataset available in [`HR_Employee_Data.csv`](HR_Employee_Data.csv)
 ---
 
