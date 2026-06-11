@@ -31,7 +31,7 @@ The dashboard enables HR teams and leadership to explore workforce metrics inter
 ### Page 1 — Workforce Overview & Department Analysis
 > *"Engineering leads in headcount with 75+ employees but 71.5% of the workforce is doing overtime — indicating a serious workload and burnout risk that may be driving the 17.50% attrition rate."*
 
-![E-Commerce Dashboard](E-Commerce%20Dashboard.png)
+![Workforce Overview & Department Analysis](Workforce%20Overview%20%26%20Department%20Insights.png))
 
 
 | Visual | Description |
