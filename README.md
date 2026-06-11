@@ -33,23 +33,11 @@ The dashboard enables HR teams and leadership to explore workforce metrics inter
 
 ![Workforce Overview & Department Analysis](Workforce%20Overview%20%26%20Department%20Insights.png)
 
-
-| Visual | Description |
-|---|---|
-| Bar Chart | Count of Employees by Department |
-| Donut Chart | Employee count by Overtime (Yes / No) |
-| Bar Chart | Avg Monthly Income by Job Role |
-
 ---
 
 ### Page 2 — Training & Development Analysis
 > *"Sales Executives receive the highest training investment yet income per training hour has been declining since 2022 — suggesting training efforts are not translating into proportional salary growth."*
 ![Training & Development Analysis](Training%20%26%20Development%20Investment%20Analysis.png)
-
-| Visual | Description |
-|---|---|
-| Horizontal Bar Chart | Total Training Hours by Job Role |
-| Dual-Axis Line Chart | Total Training Hours & Income per Training Hour by Year |
 
 ---
 
@@ -57,22 +45,11 @@ The dashboard enables HR teams and leadership to explore workforce metrics inter
 > *"Engineering and Sales together dominate 70%+ of total payroll while non-binary employees hold only 5.8% income share — and salary hike growth peaked in 2023 but has been declining ever since."*
 ![Compensation, Gender & Salary Analysis](Compensation%2C%20Gender%20%26%20Salary%20Growth%20Analysis.png)
 
-| Visual | Description |
-|---|---|
-| Bar Chart | Total Monthly Income by Department |
-| Donut Chart | Sum of Monthly Income by Gender |
-| Line Chart | Total Percent Salary Hike by Year |
-
 ---
 
 ### Page 4 — Attrition Risk & Retention Strategy
 > *"Engineering and Marketing face the highest attrition rates while employees aged 25 to 35 are leaving the most and Sales Executives top the attrition count by job role, making them the highest retention priority."*
 ![Attrition Risk & Retention Strategy](Attrition%20Risk%20%26%20Retention%20Intelligence.png)
-| Visual | Description |
-|---|---|
-| Bar Chart | Attrition Rate % by Department |
-| Histogram | Count of Attrition by Age |
-| Bar Chart | Count of Attrition by Job Role |
 
 ---
 
